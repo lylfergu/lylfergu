@@ -46,5 +46,5 @@ Handles multiple clients, channels, and standard IRC commands over TCP sockets.
 
 ## 📫 Contact
 
-📍 Based in Paris, France
-📧 Email: lylfergu@gmail.com
+📍 Based in Paris, France  
+📧 Email: lylfergu@gmail.com  
