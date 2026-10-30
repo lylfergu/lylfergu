@@ -1,8 +1,8 @@
 ## Hi there, I'm Lylia 👋
 
-🎓 Currently studying at 42 Barcelona.
-🌐 French, Spanish, and English.
-🚀 I love working on projects that mix creativity and performance.
+🎓 Currently studying at 42 Barcelona.  
+🌐 French, Spanish, and English.  
+🚀 I love working on projects that mix creativity and performance.  
 
 ---
 
@@ -37,7 +37,7 @@ A functional Unix shell built in pairs at 42 Barcelona.
 Handles pipes, redirections, environment variables, signals, and built-in commands.  
 `C` · `Unix`
 
-### [ft_irc]([https://github.com/](https://github.com/Olivier-flx/ft_irc))
+### [ft_irc]([https://github.com/Olivier-flx/ft_irc)
 A fully functional IRC server built in pairs at 42 Barcelona.  
 Handles multiple clients, channels, and standard IRC commands over TCP sockets.  
 `C++` · `Unix` · `Networking`
