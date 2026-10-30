@@ -29,17 +29,17 @@
 
 ### [ft_transcendence](https://github.com/Anagamedina/ft_transcendence)
 Full-stack web app built as a team project at 42 Barcelona: 
-A web platform for monitoring the water pressure of buildings through sensors. A company (the admin) manages its client organizations, and each client follows its own buildings, sensors and alerts.
+A web platform for monitoring the water pressure of buildings through sensors. A company (the admin) manages its client organizations, and each client follows its own buildings, sensors and alerts.  
 `Vue 3` · `Javascript` ·  `Axios` · `PostgreSQL` · `Docker` · `Python`
 
 ### [minishell](https://github.com/lylfergu/Minishell)
 A functional Unix shell built in pairs at 42 Barcelona.  
-Handles pipes, redirections, environment variables, signals, and built-in commands.  
+Handles pipes, redirections, environment variables, signals, and built-in commands.    
 `C` · `Unix`
 
 ### [ft_irc]([https://github.com/Olivier-flx/ft_irc)
 A fully functional IRC server built in pairs at 42 Barcelona.  
-Handles multiple clients, channels, and standard IRC commands over TCP sockets.  
+Handles multiple clients, channels, and standard IRC commands over TCP sockets.   
 `C++` · `Unix` · `Networking`
 
 ---
