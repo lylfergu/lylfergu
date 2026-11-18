@@ -44,8 +44,3 @@ Handles multiple clients, channels, and standard IRC commands over TCP sockets.
 `C++` · `Unix` · `Networking`
 
 ---
-
-## 📫 Contact
-
-📍 Based in Paris, France  
-📧 Email: lylfergu@gmail.com  
