@@ -38,7 +38,7 @@ A functional Unix shell built in pairs at 42 Barcelona.
 Handles pipes, redirections, environment variables, signals, and built-in commands.    
 `C` · `Unix`
 
-### [ft_irc]([https://github.com/Olivier-flx/ft_irc)
+### [ft_irc]([ https://github.com/lylfergu/ft_irc](https://github.com/lylfergu/ft_irc))
 A fully functional IRC server built in pairs at 42 Barcelona.  
 Handles multiple clients, channels, and standard IRC commands over TCP sockets.   
 `C++` · `Unix` · `Networking`
